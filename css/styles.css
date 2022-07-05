@@ -140,8 +140,11 @@ h3{
     font-size: 0.8rem;
 }
 
+
+
 .card-container{
     margin-top: 50px;
+    width: 100%;
 }
 
 #cta{
@@ -176,19 +179,5 @@ h3{
 
 /* MEDIA QUERIES */
 
-@media (max-width: 1028px){
-
-    .row{
-        margin-top: 15%;
-        text-align: center;
-    }
-
-    .titleImg{
-        width: 70%;
-        transform: rotate(0);
-    }
-
-    .titleImg-div{
-        padding: 0px;
-    }
+@media (max-width: ){
 }
