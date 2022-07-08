@@ -199,4 +199,8 @@ h3{
     .cta-title{
         font-size: 2rem;
     }
+
+    .carousel-inner{
+        padding: 3% 8%;
+    }
 }
