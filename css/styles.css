@@ -178,3 +178,17 @@ h3{
 
 
 /* MEDIA QUERIES */
+@media (max-width:425px){
+    .conatiner-fluid{
+        padding: 3% 8%;
+    }
+    h1{
+        font-size: 2rem;
+    }
+    .row{
+        text-align: center;
+    }
+    .titleImg{
+        transform: rotate(0deg);
+    }
+}
