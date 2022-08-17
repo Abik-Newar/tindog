@@ -175,8 +175,7 @@ h3{
     justify-content: space-between;
 }
 
-#footer .social-links a{
-    text-decoration: none;
+#footer .social-links .social-icons{
     color: black;
 }
 
