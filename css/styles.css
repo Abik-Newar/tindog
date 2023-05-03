@@ -236,7 +236,7 @@ h3{
 
 
 /* MEDIA QUERIES */
-@media (max-width:425px){
+@media (max-width:435px){
     .conatiner-fluid{
         padding: 3% 8%;
     }
